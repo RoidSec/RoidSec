@@ -2,7 +2,8 @@
 - Programming
 - Networking
 
-### I'm currently working on:
+## What I'm working on:
+
 - Some python passion projects using discord.py such as Skadi Bot
 - Building a home lab for networking projects
 - Building my programming knowledge & refining some languages I know well
@@ -15,6 +16,7 @@
 [<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />][CSS3]
 [<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />][Javascript]  
 <br>
+
 ## Tools: 
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][VSCode]
