@@ -3,7 +3,7 @@
 - Networking
 
 ### I'm currently working on:
-- Some passion projects such as Skadi Bot
+- Some python passion projects using discord.py such as Skadi Bot
 - Building a home lab for networking projects
 - Building my programming knowledge & refining some languages I know well
 
