@@ -32,7 +32,7 @@
 [CSS3]: https://marketplace.visualstudio.com/items?itemName=ecmel.vscode-html-css
 [Javascript]: https://www.javascript.com
 
-<p  align="center">
+<p  align="left">
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=RoidSec&hide=php&theme=tokyonight">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoidSec&hide=php&theme=tokyonight" />
   </a>
