@@ -4,6 +4,12 @@
 - Building a home lab for networking projects
 - Building my programming knowledge & refining some languages I know well
 
+<p  align="center">
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=RoidSec&hide=php&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoidSec&hide=php&theme=tokyonight" />
+  </a>
+</p>
+
 ## Languages:
 
 [<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />][Python]
