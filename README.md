@@ -1,7 +1,3 @@
-- Cybersecurity
-- Programming
-- Networking
-
 ## What I'm working on:
 
 - Some python passion projects using discord.py such as Skadi Bot
