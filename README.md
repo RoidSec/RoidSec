@@ -10,6 +10,7 @@
   </a>
 </p>
 <br>
+
 ## Tools: 
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][VSCode]
@@ -36,7 +37,7 @@
 [HTML5]: https://marketplace.visualstudio.com/items?itemName=abusaidm.html-snippets
 [CSS3]: https://marketplace.visualstudio.com/items?itemName=ecmel.vscode-html-css
 [Javascript]: https://www.javascript.com
-
+<br>
 <p  align="center">
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=RoidSec&hide=php&theme=tokyonight">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoidSec&hide=php&theme=tokyonight" />
