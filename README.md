@@ -1,8 +1,9 @@
 ## What I'm working on:
 
-- Some python passion projects using discord.py such as Skadi Bot
-- Building a home lab for networking projects
 - Building my programming knowledge & refining some languages I know well
+- Discord bot side projects
+- Building a home lab for networking projects
+
 
 ## Tools: 
 
