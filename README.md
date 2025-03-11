@@ -24,14 +24,13 @@
 [<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />][Python]
 [<img align="left" alt="Go" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" style="padding-right:10px;" />][Go]
 [<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />][HTML5]
-[<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />][CSS3]
-[<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />][Javascript]  
+[<img align="left" alt="TWCSS" width="26px" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />][TWCSS] 
 <br>
 
 [Python]: https://www.python.org/downloads/
 [Go]: https://go.dev
 [HTML5]: https://marketplace.visualstudio.com/items?itemName=abusaidm.html-snippets
-[CSS3]: https://marketplace.visualstudio.com/items?itemName=ecmel.vscode-html-css
+[TWCSS]: https://tailwindcss.com
 [Javascript]: https://www.javascript.com
 
 <p  align="left">
